@@ -40,6 +40,7 @@
     "mongodb": "^3.5.7",
     "reflect-metadata": "^0.1.13",
     "routing-controllers": "^0.8.1",
+    "shelljs": "^0.8.4",
     "typedi": "^0.8.0",
     "typeorm": "^0.2.24"
   }
